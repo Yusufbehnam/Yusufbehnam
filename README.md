@@ -29,4 +29,5 @@
 <hr/>
 
 ###  :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufbehnam)](https://github.com/yusufbehnam/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yusufbehnam)](https://github.com/Yusufbehnam/github-readme-stats)
+
