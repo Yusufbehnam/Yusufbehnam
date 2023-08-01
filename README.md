@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=e50914&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Yusuf+and+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm Yusuf and Welcome to my Profile👋 animated typed out" width="100%"/>
 
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/48085222d896c4ab194690cf5820d6288d25e8a1ad22b33b715fdfdbae28e84c/68747470733a2f2f6c61766b7573686b756d61722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30312f70726f66657373696f6e616c2d776f726470726573732d646576656c6f7065722e676966" width="300"/>
+  <img src="[https://camo.githubusercontent.com/48085222d896c4ab194690cf5820d6288d25e8a1ad22b33b715fdfdbae28e84c/68747470733a2f2f6c61766b7573686b756d61722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30312f70726f66657373696f6e616c2d776f726470726573732d646576656c6f7065722e676966](https://miro.medium.com/v2/resize:fit:640/1*TmiX7ATMCzxwdbmwEe6RXA.gif)" width="300"/>
 </div>
 
 <div id="badges" align="center">
