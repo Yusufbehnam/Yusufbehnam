@@ -1,0 +1,19 @@
+{
+    "editor.fontSize": 20,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.wordWrap": "on",
+    "explorer.compactFolders": false,
+    "workbench.tree.indent": 16
+}
